@@ -8,3 +8,4 @@ Daftar Biodata Siswa Dicoding Academy
 - Wira
 - Dani
 - Ardo
+- Rico
